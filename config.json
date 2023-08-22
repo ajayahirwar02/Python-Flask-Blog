@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_url":"mysql://root:@localhost/codinghub",
+        "prod_url": "mysql://root:@localhost/codinghub",
+        "facebook_url":"https://www.facebook.com/ajeyahirwar02",
+        "twitter_url": "https://www.twitter.com/ajayahirwar02",
+        "github_url": "https://github.com/ajayahirwar02",
+        "blog_name": "TheCodingHub",
+        "blog_name_bwt": "Coding Hub",
+        "tag_line": "A Blog liked by the Elon Musk",
+        "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+         "no_of_posts": 2,
+         "login_image":"login.png",
+         "admin_user":"ajaykumar02",
+        "admin_password": "codingnow",
+        "upload_location": "F:\\WD Using Flask\\Flask Uploaded File"
+    }
+}
